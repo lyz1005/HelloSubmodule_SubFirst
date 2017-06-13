@@ -1,2 +1,2 @@
 Git for HelloSubmodule submodule first on Android.
-test update
+on hello submodule change.
